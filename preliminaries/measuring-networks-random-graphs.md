@@ -278,4 +278,4 @@ In practice, the stochastic Kronecker graph model is able to generate graphs tha
 
 <br/>
 
-|[Index](../) | [Previous](./introduction-graph-structure) | [Next](../)|
+|[Index](../) | [Previous](./introduction-graph-structure) | [Next](./motifs-and-structral-roles_lecture)|
