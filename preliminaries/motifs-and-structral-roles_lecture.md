@@ -6,7 +6,7 @@ title: Motifs and Structral Rules in Network
 
 ## Subgraphs
 
-In this section, we will begin by introducing the defination of subgraphs. Subnetworks, or subgraphs, are the building blocks of networks which enable us to characterize and discriminate networks.
+In this section, we will begin by introducing the definition of subgraphs. Subnetworks, or subgraphs, are the building blocks of networks which enable us to characterize and discriminate networks.
 
 For example, in Figure 1 we show all the non-isomorphic directed subgraphs of size 3. These subgraphs differ from each other in the number of edges or direction of edges. 
 
