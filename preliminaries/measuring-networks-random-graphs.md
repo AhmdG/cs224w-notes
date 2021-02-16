@@ -230,7 +230,7 @@ Up to now, we have only considered $$K_1$$ initiator matrices with binary values
 
 To negate this effect, stochasticity is introduced by relaxing the assumption that the entries in the initiator matrix can only take binary values. Instead entries in $$\Theta_1$$ can take values on the interval $$[0,1]$$, and each represents the probability of that particular edge appearing. Then the matrix (and all the generated larger matrix products) represent the probability distribution over all possible graphs from that matrix.
 
-More concretely, for probaility matrix $$\Theta_1$$, we compute the $$k^{th}$$ Kronecker power $$\Theta_k$$ as the large stochastic adjacency matrix. Each entry $$p_{uv}$$ in $$\Theta_k$$ then represents the probability of edge $$(u,v)$$ appearing. 
+More concretely, for probability matrix $$\Theta_1$$, we compute the $$k^{th}$$ Kronecker power $$\Theta_k$$ as the large stochastic adjacency matrix. Each entry $$p_{uv}$$ in $$\Theta_k$$ then represents the probability of edge $$(u,v)$$ appearing. 
 
 {% include marginnote.html id='note-bipartite-folded' note='Note that the probabilities do not have to sum up to 1 as each the probability of each edge appearing is independent from other edges.' %}
 
