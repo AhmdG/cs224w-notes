@@ -16,7 +16,7 @@ Then, we will develop a method to find the most influential node set in the Inde
 ## Linear Threshold Model
 In the Linear Threshold Model, we have the following setup:
 
-- A node $$v$$ has a random threshold $$\theta_{v} \sim U[0,1]$$
+- A node $$img src="https://render.githubusercontent.com/render/math?math=v$$ has a random threshold $$\theta_{v} \sim U[0,1]$$
 - A node $$v$$ influenced by each neighbor $$w$$ according to a weight $$b_{v,w}$$, such that
 
 $$
